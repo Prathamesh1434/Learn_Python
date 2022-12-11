@@ -175,14 +175,3 @@ print('Updated bytearray :- ')
 
 for x in ba:
 	print(x)
-
-
-
-
-
-
-
-
-
-
-
