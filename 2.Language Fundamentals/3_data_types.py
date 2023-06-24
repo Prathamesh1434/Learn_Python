@@ -105,21 +105,3 @@ print('String from index 0 to 4 :- ',s[:4])
 print('String from index first to last :- ',s[:])
 print('Print String 3 times :- ',s*3)
 print('lenght of string s :- ',len(s))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
